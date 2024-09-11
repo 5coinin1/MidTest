@@ -10,7 +10,8 @@ Cách hoạt động của công thức:
 
 2.**Vai trò của hàm δ(n−k):**
 ![image](https://github.com/user-attachments/assets/9891a9ed-8323-4cfd-95a8-bb02abca65b9)
-Hàm delta rời rạc δ(n−k) có 2 giá trị là 1 hoặc 0
+Hàm delta rời rạc δ(n−k) có 2 giá trị là 1 hoặc 0  
+
 -**δ(n−k)=1** khi **n-k=0** hay **n=k**; khi đó hàm trả về x(n) luôn có giá trị bằng x(k)  
 
 -**δ(n−k)=0** khi **n-k≠0** hay **n≠k**; khi đó hàm trả về x(n) luôn có giá trị bằng 0
